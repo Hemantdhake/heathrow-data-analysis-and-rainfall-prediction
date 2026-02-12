@@ -194,8 +194,8 @@ Interactive dashboard built in Power BI featuring:
 
 ### 1️⃣ Clone Repository
 
-    `git clone https://github.com/Hemantdhake/heathrow-data-analysis-and-rainfall-prediction.git`
-    `cd heathrow-data-analysis-and-rainfall-prediction`
+    git clone https://github.com/Hemantdhake/heathrow-data-analysis-and-rainfall-prediction.git
+    cd heathrow-data-analysis-and-rainfall-prediction
 
 ### 2️⃣ Create Virtual Environment (Recommended)
 
